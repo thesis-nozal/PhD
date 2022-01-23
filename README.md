@@ -17,7 +17,7 @@ The most recent information about this doctorate, the document, its errata, and 
 
 ## Disclaimer
 
-The PhD dissertation was authorized and deposited in the Registration Office of the University of Cantabria in November 2021, but the PhD was publicly defended before an international tribunal in January 2022, officially fnishing the Doctoral Programme in Science and Technology and publishing the doctoral thesis world-wide.
+The PhD dissertation was authorized and deposited in the Registration Office of the University of Cantabria in November 2021, but the PhD was publicly defended before an international tribunal in January 2022, officially finishing the Doctoral Programme in Science and Technology and publishing the doctoral thesis world-wide.
 
 This PDF document is the latest version of the thesis, but it is not exactly the official version, since it has had some slight modifications in style, for example in the cover page, the coloring of some source codes, some icons have been improved and a redesign of the style and presentation of chapter 4 has been made. That is, they are practically the same, but the author prefers this github version than the official one published in the university repositories.
 
