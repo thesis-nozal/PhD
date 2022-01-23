@@ -10,7 +10,10 @@ The most recent information about this doctorate, the document, its errata, and 
 - [Disclaimer](#disclaimer)
 - [Defense](#defense)
 - [Short Abstract](#short-abstract)
+  - [Specialized keywords](#specialized-keywords)
 - [Short Abstract in Spanish (Resumen Corto)](#short-abstract-in-spanish-resumen-corto)
+  - [Palabras clave especializadas](#palabras-clave-especializadas)
+- [Citing](#citing)
 
 ## Disclaimer
 
