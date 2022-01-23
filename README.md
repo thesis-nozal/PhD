@@ -21,11 +21,11 @@ The PhD dissertation was authorized and deposited in the Registration Office of 
 
 This PDF document is the latest version of the thesis, but it is not exactly the official version, since it has had some slight modifications in style, for example in the cover page, the coloring of some source codes, some icons have been improved and a redesign of the style and presentation of chapter 4 has been made. That is, they are practically the same, but the author prefers this github version than the official one published in the university repositories.
 
-<!-- The official publication is located in the University Repository (UCREA) at: https://repositorio.unican.es/xmlui/ -->
+The official publication is located in the University Repository (UCREA) at: [https://repositorio.unican.es/xmlui/](https://repositorio.unican.es/xmlui/) [to be published]
 
 ## Defense
 
-The author, Ra has been awarded for his PhD, his 5 years of work, the achieved publications and contributions, and the presentation and public defense with an **excellent grade** (*Sobresaliente*).
+The author, Raúl Nozal has been awarded for his PhD, his 5 years of work, the achieved publications and contributions, the presentation and public defense with an **excellent grade** (*Sobresaliente*).
 
 Each member of the tribunal votes secretly and anonymously if the author receives the Cum Laude award, being necessary that all three members grant it. The result of the vote will be notified within 3 months.
 
