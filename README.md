@@ -13,6 +13,7 @@ The most recent information about this doctorate, the document, its errata, and 
   - [Specialized keywords](#specialized-keywords)
 - [Short Abstract in Spanish (Resumen Corto)](#short-abstract-in-spanish-resumen-corto)
   - [Palabras clave especializadas](#palabras-clave-especializadas)
+  - [Descriptores (TESEO)](#descriptores-teseo)
 - [Citing](#citing)
 
 ## Disclaimer
@@ -102,6 +103,15 @@ Considerando las tendencias industriales y enfatizando la aplicabilidad profesio
 - Arquitectura de Software
 - Ingeniería de Software
 - Lenguajes de programación
+
+### Descriptores (TESEO)
+
+Base de datos de Tesis Doctorales ([TESEO](http://www.educacion.gob.es/teseo))
+
+- Arquitectura de ordenadores / Arquitectura de computadores
+- Software
+- Lenguajes de programación
+- Tecnología de ordenadores / Tecnología de computadores
 
 ## Citing
 
