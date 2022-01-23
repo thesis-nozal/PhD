@@ -29,6 +29,8 @@ The author, Raúl Nozal has been awarded for his PhD, his 5 years of work, the a
 
 Each member of the tribunal votes secretly and anonymously if the author receives the Cum Laude award, being necessary that all three members grant it. The result of the vote will be notified within 3 months.
 
+![Public defense cover presentation](public-defense-international-tribunal-panel.png)
+
 ## Short Abstract
 
 **Optimizing Performance and Energy Efficiency in Massively Parallel Systems**
