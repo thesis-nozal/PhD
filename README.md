@@ -28,7 +28,7 @@ The official publication is located in the University Repository (UCREA) at: [ht
 
 The author, Raúl Nozal has been awarded for his PhD, his 5 years of work, the achieved publications and contributions, the presentation and public defense with an **excellent grade** (*Sobresaliente*).
 
-Each member of the tribunal votes secretly and anonymously if the author receives the Cum Laude award, being necessary that all three members grant it. The result of the vote will be notified within 3 months.
+Each member of the tribunal votes secretly and anonymously if the author receives the Cum Laude award, being necessary that all three members grant it. The result of the vote will be notified within 3 months. Official notification from the university received, obtaining merits to the highest academic degree with **Cum Laude** (*Doctor with Honors*).
 
 ![Public defense cover presentation](public-defense-international-tribunal-panel.png)
 
